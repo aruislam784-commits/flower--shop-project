@@ -48,3 +48,6 @@ University Academic Project
 
 ## Category
 ![Category](Screenshot%202025-11-14%20114650.png)
+
+## Admin
+![Admin](Screenshot%202025-11-18%20201516.png)
