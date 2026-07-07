@@ -37,5 +37,5 @@ Arifa Islam
 📌 Project Type
 University Academic Project
 
-homepage 
-!(Screenshot 2025-11-14 114650.png)
+## Homepage
+![Homepage](Screenshot%202025-11-14%20114650.png)
