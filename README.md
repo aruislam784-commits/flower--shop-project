@@ -41,6 +41,7 @@ University Academic Project
 ##  Homepage
 
 ![Homepage](Screenshot%202025-11-18%20201821.png)
+![Homepage](Screenshot%202025-07-28%20103958.png)
 
 ## Login
 
