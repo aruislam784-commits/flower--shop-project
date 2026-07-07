@@ -32,7 +32,7 @@ The Flower Shop Management System is a web-based application developed using HTM
    http://localhost/FlowerShop
    ```
  👨‍💻 Developed By
-**Ari Fah**
+Arifa Islam
 
 📌 Project Type
 University Academic Project
