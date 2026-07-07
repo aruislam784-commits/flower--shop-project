@@ -38,6 +38,8 @@ Arifa Islam
 University Academic Project
 
 ## Homepage
+![Homepage](Screenshot%2025-11-18%201821.png)
+
 
 ## Category
 ![Category](Screenshot%202025-11-14%20114650.png)
